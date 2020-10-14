@@ -1,7 +1,7 @@
 ---
 title: "Strategic Asset Allocation"
 author: "Yutao Jin"
-date: "7 October 2020"
+date: "12 October 2020"
 output:
   html_document:
     theme: flatly
@@ -34,6 +34,9 @@ library(ggthemes)
 library(readxl)
 library(ggrepel)
 ```
+
+
+> I am more comfortable with top-down investment style. The first step to construct the portfolio is asset allocation. In this blog, I construct the equities-bonds portfolio and compare traditional 60/40 portfolio with risk parity portfolio. My ideas come from the final question in midterm of Investment Fundamental course which is taught by professor Roberto Gomez Cram. My data comes from [J.P. Morgan Long-Term Capital Market Assumptions](https://am.jpmorgan.com/hk/en/asset-management/adv/insights/portfolio-insights/long-term-capital-market-assumptions/).
 
 
 # Data initialization
@@ -243,6 +246,7 @@ knitr::include_graphics("C:/Data Analytics/my_website/content/projects/SAA/alter
 
 [3] Michael Mackenzie, ["Investors wonder if the 60/40 portfolio has a future"](https://www.ft.com/content/fdb793a4-712e-477f-9a81-7f67aefda21a), Financial Times, 22 September 2020.
 
+[4] J.P. Morgan Asset Management, ["Long-term capital market assumptions"](https://am.jpmorgan.com/hk/en/asset-management/adv/insights/portfolio-insights/long-term-capital-market-assumptions/), 30 September 2020.
 
 
 

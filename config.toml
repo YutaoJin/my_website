@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Thomas"
-    subtitle = "By HTML5 Up"
+    subtitle = "Portfolio Website"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -93,31 +93,31 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "About me"
-      subtitle = "Ipsum Dolor Sit Amet"
+      subtitle = "Connect and Contribute"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
-
-    [[params.tiles.showcase]]
-      title = "JIN's Investment Matrix"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
-      url = "blogs/tempus"
-
-    [[params.tiles.showcase]]
-      title = "Economic Analysis"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "projects/resume"
 
     [[params.tiles.showcase]]
       title = "Strategic Asset Allocation"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      subtitle = "Construct long-term portfolio"
+      image = "pic02.jpg"
+      url = "projects/SAA"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Diversify Into Alternatives"
+      subtitle = "New Source of Income"
+      image = "pic03.jpg"
+      url = "projects/alternatives"
+
+    [[params.tiles.showcase]]
+      title = "Economic Analysis"
+      subtitle = "Breakdown GDP"
+      image = "pic04.jpg"
+      url = "projects/economic"
+
+    [[params.tiles.showcase]]
+      title = "Capital Asset Pricing Model"
+      subtitle = "CAPM"
       image = "pic05.jpg"
       url = "blogs/ipsum"
 
