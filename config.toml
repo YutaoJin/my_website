@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://tender-hamilton-d42635.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio website for Yutao Jin"
 theme = "forty"
